@@ -11,6 +11,7 @@ class CoursesScreen extends React.Component{
             <Container>
                 <Text>Courses Screen</Text>
             </Container>
+
         )
     }
 }
